@@ -1,37 +1,27 @@
 {
-  "short_name": "EcommerceSite",
+  "short_name": "PlaidMe",
   "name": "PlaidMe",
+  "start_url": "/index.html",
+  "display": "standalone",
   "icons": [
     {
-      "src": "icons/apple120.png",
-      "sizes": "120x120",
+      "src": "/logo/shirtLogo192.png",
+      "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "icons/apple152.png",
-      "type": "image/png",
-      "sizes": "152x152"
-    },
-    {
-      "src": "icons/icon512.png",
-      "type": "image/png",
-      "sizes": "512x512"
-    },
-    {
-      "src": "icons/apple114.png",
-      "type": "image/png",
-      "sizes": "114x114"
-    }	        
-  ],
-  "apple-touch-icon": [
-    {
-      "src": "/iconns/apple180.png",
-      "sizes": "180x180",
+      "src": "/logo/shirtLogo512.png",
+      "sizes": "512x512",
       "type": "image/png"
     }
   ],
-  "start_url": "/index.html",
-  "display": "standalone",
+  "apple-touch-icon": [
+    {
+      "src": "/logo/shirtLogo92.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ],
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
