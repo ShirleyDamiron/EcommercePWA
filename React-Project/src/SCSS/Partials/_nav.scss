@@ -1,0 +1,42 @@
+.nav-ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  display: flex;
+  background: rgb(8, 8, 8);
+
+  &__li {
+    float: left;
+
+    a {
+      display: block;
+      color: rgb(235, 234, 241);
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration-style: double;
+      font-weight: bolder;
+
+      &:hover{
+        background-color: rgb(70, 3, 3);
+      }
+    }
+  }
+}
+
+.searchBar {
+  margin: auto;
+  padding-left: 20px;
+}
+
+/* Nav Pic */
+
+.plaidLogo img {
+  width: 40px;
+}
+
+.plaidLogo {
+  margin-right: auto;
+  padding-left: 16px;
+}
+

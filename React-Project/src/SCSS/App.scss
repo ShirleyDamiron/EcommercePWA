@@ -1,0 +1,16 @@
+@import "./Partials/nav";
+@import "./Partials/footer";
+@import "./Partials/home";
+@import "./Partials/contact";
+@import "./Partials/slider";
+@import "./Partials/products";
+@import "./Partials/signUp";
+@import "./Partials/signIn";
+@import "./Partials/error";
+
+body {
+    min-height: 100vh; /* will cover the 100% of viewport */
+    display: block;
+    position: relative;
+    padding-bottom: 100px;
+   }

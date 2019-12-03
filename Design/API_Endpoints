@@ -1,0 +1,11 @@
+GET - "/products" (all products)
+
+GET - "/products/productFilter/:category" (All products filtered by category that matches)
+
+GET - "/contacts" (All Contacts)
+
+DELETE - "/deleteContact/:contact_id" (deletes contact by matching contact_id)
+
+PUT - "/updateContact/:contact_id" (updates existing contact by matching contact_id)
+
+POST - "/newContact" (Adds new contact to contacts table)

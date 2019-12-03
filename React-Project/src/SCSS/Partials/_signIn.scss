@@ -1,0 +1,31 @@
+.sign-in-form{
+    margin: 0 auto;
+    background-color: rgb(110, 3, 3);
+    height: 450px;
+    width: 600px;
+    text-align: center;
+
+    &__input-container {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin: 50px 0;
+    }
+}
+
+.label{
+color: rgb(253, 252, 252);
+font-size: 40px;
+padding: 10px;
+display: block;
+margin: 20px 0 0 0;
+}
+
+.submitButton-signIn{
+color: rgb(250, 246, 246);
+background-color:rgb(150, 128, 7);
+border-radius: 10px;
+font-size: 30px;
+font-family: cursive;
+margin: 10px 0;
+}

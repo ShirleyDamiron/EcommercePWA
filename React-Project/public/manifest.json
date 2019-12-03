@@ -1,0 +1,37 @@
+{
+  "short_name": "EcommerceSite",
+  "name": "PlaidMe",
+  "icons": [
+    {
+      "src": "icons/apple120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "icons/apple152.png",
+      "type": "image/png",
+      "sizes": "152x152"
+    },
+    {
+      "src": "icons/icon512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "icons/apple114.png",
+      "type": "image/png",
+      "sizes": "114x114"
+    }	        
+  ],
+  "apple-touch-icon": [
+    {
+      "src": "/iconns/apple180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
