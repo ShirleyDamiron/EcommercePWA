@@ -1,6 +1,8 @@
 # EcommercePWA
 Ecommerce site showcasing the best plaid styles for winter fashion. Using ReactJS and login accessibility with Bcrypt. Also, A database using Mongo.
 
+## Images
+![audit test passing for pwa]("/Audits/afterAudit.png")
 
 ## Installations
 
