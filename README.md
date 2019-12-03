@@ -38,4 +38,4 @@ Please make sure to update tests as appropriate.
 
 
 ## License
-[MIT](https://github.com/ShirleyDamiron/E-Commerce-Mongo/blob/master/LICENSE)
+[MIT](https://github.com/ShirleyDamiron/EcommercePWA/blob/master/LICENSE)
