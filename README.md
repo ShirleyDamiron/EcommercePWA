@@ -9,7 +9,7 @@ Ecommerce site showcasing the best plaid styles for winter fashion. Using ReactJ
 
 ### App Icon On Phone
 
-![pwa app image on phone](/Audits/resizedApp.png)
+![pwa app image on phone](/Audits/iconApp.png)
 
 ### Working Mobile App
 
